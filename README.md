@@ -1,1 +1,1 @@
-## HRMS Application - Laravel + React
+## HRMS Application - Laravel + React + Tailwind CSS
